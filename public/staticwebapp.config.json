@@ -1,0 +1,9 @@
+{
+	"routes": [
+		{
+			"route": "*",
+			"redirect": "https://www.facebook.com/profile.php?id=100028975134625",
+			"statusCode": 301
+		}
+	]
+}
